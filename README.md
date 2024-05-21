@@ -15,15 +15,15 @@ _______
 
 Intro =
 
-"Name": "Eka Danu Arta",
+"Name": "Bagus Dwi Prasetyo",
 
-"Status": "Graduated SMK PEMBNAS Grobogan",
+"Status": "Graduated SMKN 1 LAMONGAN",
 
-"Address": "Grobogan, Jawa - Tengah, Indonesia",
+"Address": "Lamongan, Jawa - Timur, Indonesia",
 
-"Age": "18 Years Old",
+"Age": "19 Years Old",
 
-"Birthday": "January - 01 , 2004"
+"Birthday": "Agustus - 19, 2003"
 
    
 
