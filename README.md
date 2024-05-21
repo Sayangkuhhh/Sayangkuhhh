@@ -9,7 +9,7 @@
   
 _______
   
-### [`INTRO MY SELF`](https://ekagans02.herokuapp.com)
+### [`INTRO MY SELF`](https://wa.me/6285773495857)
 
 ```
 
@@ -62,11 +62,11 @@ _____
 ------
 
 ### Follow Me 😁
-<a href="https://www.instagram.com/eka_danu_arta" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/bgusdwiprsty_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<a href="https://wa.me/994400295560" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://wa.me/6285773495857" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
   _____
   
-  <a href="https://github.com/ekadanuarta"><img src="https://github-readme-stats.vercel.app/api?username=ekadanuarta&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/Sayangkuhhh"><img src="https://github-readme-stats.vercel.app/api?username=sayangkuhhh&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 
